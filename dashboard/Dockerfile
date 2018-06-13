@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubernetes-dashboard-amd64:latest
+FROM gcr.io/google_containers/kubernetes-dashboard-amd64:1.7.1
 MAINTAINER meishd@sina.com
